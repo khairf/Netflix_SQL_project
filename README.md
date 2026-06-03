@@ -11,10 +11,10 @@ This project involves a comprehensive analysis of Netflix's movies and TV shows 
 
 ## Dataset
 The data for this project is sourced from the Kaggle dataset:
-- **Dataset Link:** ![Movies dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
+- **Dataset Link:** [Movies dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
 
 ## Schema
-'''sql'
+```sql
 --DROP table if exists netflix;
 CREATE TABLE netflix
 (
@@ -32,7 +32,7 @@ CREATE TABLE netflix
     description  VARCHAR(250)
 
 );
-'''
+```
 ## Business Problems and Solutions
 
 ### 1. Count the Number of Movies vs TV shows

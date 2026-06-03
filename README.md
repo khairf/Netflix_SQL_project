@@ -197,7 +197,7 @@ GROUP BY 1
 
 This analysis provides a comprehensive view of Netflix's content and can help inform content strategy and decision-making.
 
-## Author - Zero Analyst
+## Author - Fatima
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
 
